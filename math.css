@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
+
+
 #div1 {
   position: absolute;
   left: 50px;
@@ -10,8 +9,8 @@
   background-color: gray;
   padding: 5px;
 }
-</style>
-</head>
+
+
 <body>
 
 <h1>The calc() Function</h1>
@@ -21,19 +20,16 @@
 <div id="div1">Some text...</div>
 
 </body>
-</html>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
+
 #div1 {
   background-color: black;
   height: 100px;
   width: max(50%, 300px);
 }
-</style>
-</head>
+
+
 <body>
 
 <h1>The max() Function</h1>
@@ -45,19 +41,13 @@
 <p>Resize the browser window to see the effect.</p>
 
 </body>
-</html>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 #div1 {
   background-color: yellow;
   height: 100px;
   width: min(50%, 300px);
 }
-</style>
-</head>
+
 <body>
 
 <h1>The min() Function</h1>
